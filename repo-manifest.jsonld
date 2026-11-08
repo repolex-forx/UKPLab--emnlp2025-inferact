@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2025-inferact/commit/980b72d5af356b7539ec5c2d90ebd3a99efaa16f",
       "git:hexsha": "980b72d5af356b7539ec5c2d90ebd3a99efaa16f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T18:42:37.126608+00:00"
     }
   ]
 }
