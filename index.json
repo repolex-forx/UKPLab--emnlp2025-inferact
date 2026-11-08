@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "emnlp2025-inferact",
+  "versions": [
+    {
+      "commit": "980b72d5af356b7539ec5c2d90ebd3a99efaa16f",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:42:37.127074+00:00"
+    }
+  ]
+}
